@@ -1,4 +1,4 @@
-# ECHO — Editorial Developer & Designer Portfolio
+# RAKSHIFLEX — Editorial Developer & Designer Portfolio
 
 <div align="center">
 
@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    Crafted by <strong><a href="https://github.com/Jishnu09-siuu">Jishnu Mondal</a></strong> — Designer & Full-Stack Creative Developer.
+    Replicated for <strong>Rakshith</strong> (<strong>RAKSHIFLEX</strong>) — Designer & Full-Stack Creative Developer.
   </p>
 
 </div>
@@ -20,9 +20,9 @@
 
 ## ✦ Overview
 
-**ECHO** is an editorial developer and designer portfolio engineered with a focus on typography, fluid physics, and cutting-edge web graphics. Built around a curated monochrome aesthetic, it marries brutalist minimalism with rich micro-interactions, hardware-accelerated scroll animations, and interactive 3D drum reel navigation.
+**RAKSHIFLEX** is an editorial developer and designer portfolio engineered with a focus on typography, fluid physics, and cutting-edge web graphics. Built around a curated monochrome aesthetic, it marries brutalist minimalism with rich micro-interactions, hardware-accelerated scroll animations, and interactive 3D drum reel navigation.
 
-Whether presenting production landing pages, full-stack applications, or bespoke brand identities, ECHO provides an immersive editorial reading and browsing experience.
+Whether presenting production landing pages, full-stack applications, or bespoke brand identities, RAKSHIFLEX provides an immersive editorial reading and browsing experience.
 
 ---
 
@@ -114,27 +114,13 @@ ECHO-WEBSITE/
 This project is built using native ES modules and standard web technologies. You can run it with any local HTTP server:
 
 ### Prerequisites
-- Python 3.x **or** Node.js installed on your machine.
+- Node.js (or Python) installed on your machine.
 
-### Option 1: Python Simple HTTP Server (Recommended)
+### Running with Node.js:
 ```bash
-# Clone the repository
-git clone https://github.com/Jishnu09-siuu/ECHO-WEBSITE.git
-cd ECHO-WEBSITE
-
-# Run local development server
 npm start
-# or directly:
-python3 -m http.server 8080
 ```
 Then navigate to `http://localhost:8080` in your browser.
-
-### Option 2: Node.js / Vite / `npx serve`
-```bash
-npx serve .
-# or
-npx live-server
-```
 
 ---
 
@@ -150,10 +136,9 @@ Because ECHO is completely static and modular, it can be deployed instantly to a
 
 ## ✦ Connect & Socials
 
-- **Portfolio**: [Jishnu Mondal](https://jishnumondal.vercel.app/)
-- **GitHub**: [@Jishnu09-siuu](https://github.com/Jishnu09-siuu)
-- **LinkedIn**: [jishnu-mondal](https://www.linkedin.com/in/jishnu-mondal/)
-- **X / Twitter**: [@Jishn8m](https://x.com/Jishn8m)
+- **Portfolio**: [Rakshith](#)
+- **LinkedIn**: [Rakshith](https://www.linkedin.com/)
+- **GitHub**: [Rakshith](https://github.com/)
 
 ---
 
